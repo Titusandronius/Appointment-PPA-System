@@ -1,13 +1,4 @@
 <template>
-    <div>
-        <h1>Hello World</h1>
-    </div>
+   <NuxtRouteAnnouncer />
+  <NuxtWelcome/>
 </template>
-
-<script setup>
-
-</script>
-
-<style lang="scss" scoped>
-
-</style>
